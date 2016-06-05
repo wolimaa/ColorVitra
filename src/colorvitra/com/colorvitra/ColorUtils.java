@@ -61,7 +61,7 @@ public class ColorUtils {
 		colorList.add(new ColorName("Azul céu profundo", 0x00, 0xBF, 0xFF));
 		colorList.add(new ColorName("Cinza fosco", 0x69, 0x69, 0x69));
 		colorList.add(new ColorName("Azul furtivo", 0x1E, 0x90, 0xFF));
-		colorList.add(new ColorName("Tijo refratário(vermelho)", 0xB2, 0x22, 0x22));
+		colorList.add(new ColorName("Tijolo refratário(vermelho)", 0xB2, 0x22, 0x22));
 		colorList.add(new ColorName("Branco Floral", 0xFF, 0xFA, 0xF0));
 		colorList.add(new ColorName("Verde floresta", 0x22, 0x8B, 0x22));
 		colorList.add(new ColorName("Fúchsia(majenta)", 0xFF, 0x00, 0xFF));
@@ -69,7 +69,7 @@ public class ColorUtils {
 		colorList.add(new ColorName("Branco Ghost", 0xF8, 0xF8, 0xFF));
 		colorList.add(new ColorName("Ouro", 0xFF, 0xD7, 0x00));
 		colorList.add(new ColorName("Dourado", 0xDA, 0xA5, 0x20));
-		colorList.add(new ColorName("Cunza", 0x80, 0x80, 0x80));
+		colorList.add(new ColorName("Cinza", 0x80, 0x80, 0x80));
 		colorList.add(new ColorName("Verde", 0x00, 0x80, 0x00));
 		colorList.add(new ColorName("Verde amarelado", 0xAD, 0xFF, 0x2F));
 		colorList.add(new ColorName("Maná(verde muito claro)", 0xF0, 0xFF, 0xF0));
