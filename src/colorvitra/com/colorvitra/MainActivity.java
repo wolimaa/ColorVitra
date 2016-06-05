@@ -189,10 +189,21 @@ public class MainActivity extends Activity implements OnTouchListener, CvCameraV
 
             Mat spectrumLabel = mRgba.submat(4, 4 + mSpectrum.rows(), 70, 70 + mSpectrum.cols());
             mSpectrum.copyTo(spectrumLabel);
-            String oi = colorLabel.submat(0, 1, 0, 1).dump();
-            ColorUtils c = new ColorUtils();
-            oi = c.getColorNameFromRgb(254, 254, 253);
-            Core.putText(mRgba, oi, new Point(10, 500), 3, 1, new Scalar(255, 255, 255, 255), 4);
+            
+            String amostra = colorLabel.submat(0, 1, 0, 1).dump();
+            
+            String c_amostra = amostra.replaceAll("[\\[\\]]","");   
+            
+            String[] splited = c_amostra.trim().split("\\s*,\\s*");
+            
+            int red = Integer.parseInt(splited[0]);
+            int green = Integer.parseInt(splited[1]);
+            int blue = Integer.parseInt(splited[2]);
+            
+            ColorUtils color = new ColorUtils();
+     
+            String colorName = color.getColorNameFromRgb(red, green, blue);
+            Core.putText(mRgba, colorName, new Point(10, 500), 3, 1, new Scalar(255, 255, 255, 255), 4);
         }
 
         return mRgba;
