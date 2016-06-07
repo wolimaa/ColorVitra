@@ -1,6 +1,6 @@
 ## Sobre
 
-**ColorVitra** é fruto de um trabalho de conclusão da disciplina de Computação Gráfica do curso de Ciência da Computação 2013.2, sob a orientação do Prof. MSc. Dario Calçada. O aplicativo usa a biblioteca open source de visão computacional [OpenCV](http://opencv.org) para reconhecimento de cores de uma amostra de objetos selecionados pelo usuários através da câmera do dispositivo e exibe o nome da cor por extenso na tela do dispositivo.
+**ColorVitra** é fruto de um trabalho de conclusão da disciplina de Computação Gráfica do curso de Ciência da Computação 2013.2, sob a orientação do Prof. MSc. Dario Calçada. O aplicativo usa a biblioteca open-source de visão computacional [OpenCV](http://opencv.org) para reconhecimento de cores de uma amostra de objetos selecionados pelo usuários através da câmera do dispositivo e exibe o nome da cor por extenso na tela do dispositivo.
 
 
 ## Cores suportadas
@@ -11,7 +11,13 @@ Azul alice, Branco antigo, Agua(azul-esverdeado), Agua-marinha, Azul celeste, Be
 
 O projeto **ColorVitra** busca auxiliar pessoas portadoras de daltonismo no dia a dia, possibilitando o portador dessa deficiência identificar corretamente as cores utilizando o aplicativo para celular **ColorVitra**.
 
-## Instalação 
+# Instale o app no seu celular
+
+Use algum software que ler QRCode para ler o QRCode abaixo para fazer download do app ou [clique aqui](https://s3.amazonaws.com/colorvitra/latest/ColorVitra.apk) para abrir o link direto do seu celular.
+
+![QRCode](https://s3.amazonaws.com/colorvitra/latest/qrcode.png)
+
+## Instalação do código-fonte
 
 O aplicativo **ColorVitra** foi escrito utilizando a ferramenta Eclipse, portanto para fazer uso do código fonte do **Colorvitra** importe o código para o Eclipse(File->Import), importe também a biblioteca opencv que está dentro do diretório **libs/** .
 
