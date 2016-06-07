@@ -30,4 +30,4 @@ O aplicativo **ColorVitra** foi escrito em Java utilizando a ferramenta Eclipse,
 
 ## Licença 
 
-Os arquivos fontes disponíveis em src/ são disponibilizados sob os termos [3-clause BSD License](https://opensource.org/licenses/BSD-3-Clause), para mais informações consulte o [arquivo de licença](https://github.com/cassioalmeidas/ColorVitra/blob/master/LICENSE)
+Os arquivos fontes disponíveis em src/ são disponibilizados sob os termos [3-clause BSD License](https://opensource.org/licenses/BSD-3-Clause), para mais informações consulte o [arquivo de licença](https://github.com/cassioalmeidas/ColorVitra/blob/master/LICENSE).
