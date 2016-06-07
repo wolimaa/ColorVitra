@@ -19,7 +19,7 @@ Use algum app que faça escaneamento de QRCode para escanear o QRCode abaixo par
 
 ## Instalação do código-fonte
 
-O aplicativo **ColorVitra** foi escrito utilizando a ferramenta Eclipse, portanto para fazer uso do código fonte do **Colorvitra** importe o código para o Eclipse(File->Import), importe também a biblioteca opencv que está dentro do diretório **libs/** .
+O aplicativo **ColorVitra** foi escrito em Java utilizando a ferramenta Eclipse, portanto para fazer uso do código fonte do **ColorVitra** importe o código para o Eclipse(File->Import), importe também a biblioteca opencv que está dentro do diretório **libs/** .
 
 ## Equipe
 
