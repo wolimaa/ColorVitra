@@ -203,7 +203,7 @@ public class MainActivity extends Activity implements OnTouchListener, CvCameraV
             ColorUtils color = new ColorUtils();
      
             String colorName = color.getColorNameFromRgb(red, green, blue);
-            Core.putText(mRgba, colorName, new Point(10, 500), 3, 1, new Scalar(255, 255, 255, 255), 4);
+            Core.putText(mRgba, "Cor selecionada: " + colorName, new Point(10, 500), 3, 1, new Scalar(255, 255, 255, 255), 4);
         }
 
         return mRgba;
