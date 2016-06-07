@@ -1,6 +1,6 @@
 ## Sobre
 
-**ColorVitra** é fruto de um trabalho de conclusão da disciplina de Computação Gráfica do curso de Ciência da Computação 2013.2, sob a orientação do Prof. MSc. Dario Calçada. O aplicativo usa a biblioteca open source de visão computacional [OpenCV](opencv.org).
+**ColorVitra** é fruto de um trabalho de conclusão da disciplina de Computação Gráfica do curso de Ciência da Computação 2013.2, sob a orientação do Prof. MSc. Dario Calçada. O aplicativo usa a biblioteca open source de visão computacional [OpenCV](http://opencv.org).
 
 
 ## Cores suportadas
