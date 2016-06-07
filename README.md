@@ -17,7 +17,7 @@ O aplicativo **ColorVitra** foi escrito utilizando a ferramenta Eclipse, portant
 
 ## Equipe
 
-* Cassio Almeida - @CassioAlmeidas
+* Cassio Almeida - [@CassioAlmeidas](https:/github.com/cassioalmeidas)
 * Francisco da Paz
 * Jonathan Barros
 * Wesley de Oliveira
