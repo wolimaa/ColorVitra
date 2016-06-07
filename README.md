@@ -9,11 +9,11 @@ Azul alice, Branco antigo, Agua(azul-esverdeado), Agua-marinha, Azul celeste, Be
 
 ## Motivação
 
-O projeto **ColorVitra** busca auxiliar pessoas portadoras de daltonismo no dia a dia, possibilitando o portador dessa deficiência identificar corretamente as cores utilizando o aplicativo para celular **ColorVitra**.
+O projeto **ColorVitra** busca auxiliar pessoas portadoras de daltonismo no dia a dia, possibilitando o portador dessa deficiência identificar corretamente as cores, utilizando o aplicativo para celular **ColorVitra**.
 
 # Instale o app no seu celular
 
-Use algum software que ler QRCode para ler o QRCode abaixo para fazer download do app ou [clique aqui](https://s3.amazonaws.com/colorvitra/latest/ColorVitra.apk) para abrir o link direto do seu celular.
+Use algum app que faça escaneamento de QRCode para escanear o QRCode abaixo para fazer download do app ou [clique aqui](https://s3.amazonaws.com/colorvitra/latest/ColorVitra.apk) para abrir o link direto do seu celular.
 
 ![QRCode](https://s3.amazonaws.com/colorvitra/latest/qrcode.png)
 
